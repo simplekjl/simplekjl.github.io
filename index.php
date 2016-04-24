@@ -19,8 +19,7 @@
     <link rel="stylesheet" href="assets/plugins/font-awesome/css/font-awesome.css">
     
     <!-- github calendar css -->
-    <link rel="stylesheet" href="assets/plugins/github-calendar/dist/github-calendar.css"
-/>
+    <link rel="stylesheet" href="assets/plugins/github-calendar/dist/github-calendar.css"/>
     <!-- github acitivity css -->
     <link rel="stylesheet" href="assets/plugins/github-activity/src/github-activity.css">
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/octicons/2.0.2/octicons.min.css">
@@ -48,7 +47,7 @@
                     <li><a href="http://github.com/simplekjl"><i class="fa fa-github-alt"></i></a></li>                   
                 </ul> 
             </div><!--//profile-->
-            <a class="btn btn-cta-primary pull-right" href="mailto:jl.cs606@gmail.com?Subject=Contact" target="_top"><i class="fa fa-paper-plane"></i> Contact Me</a>              
+            <a class="btn btn-cta-primary pull-right" href="mailto:jl.cs606@gmail.com?Subject=Contact" target="_blank"><i class="fa fa-paper-plane"></i> Contact Me</a>              
         </div><!--//container-->
     </header><!--//header-->
     
@@ -209,7 +208,7 @@
                         <div class="content">
                             <ul class="list-unstyled">
                                 <li><i class="fa fa-map-marker"></i><span class="sr-only">Location:</span>United States</li>
-                                <li><i class="fa fa-envelope-o"></i><span class="sr-only">Email:</span><a href="mailto:jl.cs606@gmail.com?Subject=Contact" target="_top">jl.cs606@gmail.com</a></li>
+                                <li><i class="fa fa-envelope-o"></i><span class="sr-only">Email:</span><a href="mailto:jl.cs606@gmail.com?Subject=Contact" target="_blank">jl.cs606@gmail.com</a></li>
                                 <li><i class="fa fa-link"></i><span class="sr-only">Website:</span><a href="http://simplek.github.io">http://simplek.github.io</a></li>
                             </ul>
                         </div><!--//content-->  
