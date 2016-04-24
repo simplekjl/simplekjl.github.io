@@ -44,10 +44,8 @@
                 <h1 class="name">Jose Luis Crisostomo</h1>
                 <h2 class="desc">Android Developer</h2>   
                 <ul class="social list-inline">
-                    <li><a href="https://twitter.com/simpleck"><i class="fa fa-twitter"></i></a></li>                   
-                    <li><a href="https://www.facebook.com/simplekcore"><i class="fa fa-facebook"></i></a></li>
-                    <li><a href="http://github.com/simplekjl"><i class="fa fa-github-alt"></i></a></li>                  
-                    <li class="last-item"><a href="#"><i class="fa fa-hacker-news"></i></a></li>                 
+                    <li><a href="https://twitter.com/simpleck"><i class="fa fa-twitter"></i></a></li>           
+                    <li><a href="http://github.com/simplekjl"><i class="fa fa-github-alt"></i></a></li>                   
                 </ul> 
             </div><!--//profile-->
             <a class="btn btn-cta-primary pull-right" href="mailto:jl.cs606@gmail.com?Subject=Contact" target="_top"><i class="fa fa-paper-plane"></i> Contact Me</a>              
